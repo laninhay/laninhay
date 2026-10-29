@@ -28,7 +28,8 @@
   <img align="center" alt="Lana-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lana-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   
-  <img width="150" align="right" alt="Lana" src="https://github.com/user-attachments/assets/5f8af447-9090-41f4-a67d-aef23b3ad0d0">
+  <img width="150" align="right" alt="Lana" src="https://github.com/user-attachments/assets/1ad7e5dd-77fc-404c-8138-9c40d760d54e">
+
 </div>
 
 <br>
