@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Lana Cristina
 
-- 💼 Estudante de Ciência da Computação na UNIR | Foco em Full Stack
-- 📚 Principais Tecnologias: HTML, CSS, JavaScript, React.js, Next.js, Java, Python, C, C#, SQL e Figma
-- 💻 Curiosidades: Apaixonada por design de interfaces e desenvolvimento de aplicativos mobile.
+- 💻 Estudante de Ciência da Computação na UNIR | Foco em Full Stack
+- ✨ Principais Tecnologias: HTML, CSS, JavaScript, React.js, Next.js, Java, Python, C, C#, SQL e Figma
+- 🎀 Curiosidades: Apaixonada por design de interfaces e desenvolvimento de aplicativos mobile.
 
 <div align="center">
   <a href="https://github.com/laninhay">
