@@ -5,9 +5,10 @@
 - 🎀 Curiosidades: Apaixonada por design de interfaces e desenvolvimento de aplicativos mobile.
 
 <div align="center">
-  <a href="https://github.com/laninhay">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laninhay&show_icons=true&theme=synthwave&include_all_commits=true"/></a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laninhay&layout=compact&langs_count=7&theme=synthwave"/>
+
+[![](https://raw.githubusercontent.com/laninhay/laninhay/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laninhay/laninhay/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/laninhay/laninhay/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/laninhay/laninhay/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/laninhay/laninhay/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <br>
